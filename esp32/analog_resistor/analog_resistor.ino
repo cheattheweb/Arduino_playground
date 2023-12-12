@@ -1,4 +1,3 @@
-
 #define PIN_A 36
 int sensor_value = 0;
 
